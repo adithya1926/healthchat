@@ -1,2 +1,2 @@
-# visuallyimpaired
-virtual assistance for visually imapaired
+# HealthChat
+virtual assistance for sick people
